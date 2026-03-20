@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -241,7 +241,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1b675cbdcfa88c56",
   "lastOpenFiles": [
     "20 - Areas/Mobile Development/Dart & Flutter/01 - Dart Fundamentals/Module 1 - Dart Basics.md",
     "20 - Areas/Mobile Development/Dart & Flutter/Dart & Flutter Bootcamp Roadmap.md",
