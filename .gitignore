@@ -1,0 +1,44 @@
+# --- Obsidian Specific ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+# Optional: Ignore all plugin data if you store API keys in them
+# .obsidian/plugins/
+
+# --- Gemini Scribe / AI Agent Specific ---
+gemini-scribe/rag-index-cache.json
+gemini-scribe/Agent-Sessions/
+# .env files often used for API keys
+.env
+.env.*
+
+# --- Secret & Private Files (Global Patterns) ---
+# Any file or folder with "secret", "private", or "credential" in the name
+*[Ss]ecret*
+*[Pp]rivate*
+*[Cc]redential*
+*[Tt]oken*
+*[Aa]uth*
+secrets/
+private/
+credentials/
+
+# Specific sensitive extensions
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cfg
+*.conf
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# --- Backup & Conflict Files ---
+*.sync-conflict-*
+*.bak
+*.tmp

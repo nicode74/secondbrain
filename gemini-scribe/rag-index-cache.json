@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "",
-  "lastSync": 1774024428542,
+  "lastSync": 1774026102905,
   "files": {
     "Welcome.md": {
       "resourceName": "fileSearchStores/obsidianvinick-ey58oupa354m",
@@ -62,6 +62,16 @@
       "resourceName": "fileSearchStores/obsidianvinick-ey58oupa354m",
       "contentHash": "ed0239ab99c14f7d5a7571d5460386b39de946095d2d1c8b2658b532baf75923",
       "lastIndexed": 1774024428542
+    },
+    "20 - Areas/Cyber Security/Reverse Engineering/Reverse Engineering Roadmap.md": {
+      "resourceName": "fileSearchStores/obsidianvinick-ey58oupa354m",
+      "contentHash": "281569d1a21b5fa92c4d3b160be0112147a6afa05d1ab3677a7d6c97c64881da",
+      "lastIndexed": 1774026078389
+    },
+    "20 - Areas/Cyber Security/Reverse Engineering/01 - RE Fundamentals (CPU & Binary)/RE Module 1 - Architecture & Binary Fundamentals.md": {
+      "resourceName": "fileSearchStores/obsidianvinick-ey58oupa354m",
+      "contentHash": "678b02bc427ffc121c66e3691e96e44cfdffdd98218ff5980721ee7131836022",
+      "lastIndexed": 1774026102905
     }
   },
   "indexingInProgress": false,
