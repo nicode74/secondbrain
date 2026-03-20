@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.Templates/📚 Study.md",
+                "file": "20 - Areas/DevOps/DevOps Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📚 Study"
+              "title": "Backlinks for DevOps Roadmap"
             }
           },
           {
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -241,7 +241,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1b675cbdcfa88c56",
+  "active": "4cb43673dc49a02d",
   "lastOpenFiles": [
     "20 - Areas/Cyber Security/Reverse Engineering/01 - RE Fundamentals (CPU & Binary)/RE Module 1 - Architecture & Binary Fundamentals.md",
     "20 - Areas/Cyber Security/Reverse Engineering/Reverse Engineering Roadmap.md",
