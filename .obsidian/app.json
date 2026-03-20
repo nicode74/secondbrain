@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "openBehavior": "daily",
+  "attachmentFolderPath": "50 - System/52 - Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Inbox"
+}

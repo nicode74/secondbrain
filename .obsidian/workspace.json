@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 - Areas/DevOps/DevOps Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d56b81507f158b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5241942c823d42ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b675cbdcfa88c56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25e01b222910e7e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "692235536012edb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "648efeaef22e4652",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "66d63937cd96801f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9453d36609d4fe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8605453a872613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32db22c8f066e13a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "09.Templates/📚 Study.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📚 Study"
+            }
+          },
+          {
+            "id": "d1f90a658311aae9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06. Study/Materi Kuliah/IoT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IoT"
+            }
+          },
+          {
+            "id": "b59394d5d5626859",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "349cc7d0b2a190bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8425ff6ae1fe2078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. Tasks/Today.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Today"
+            }
+          },
+          {
+            "id": "9ad11b0b7211e803",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "4cb43673dc49a02d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "25651b05282db572",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 566
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "20 - Areas/Mobile Development/Dart & Flutter/01 - Dart Fundamentals/Module 1 - Dart Basics.md",
+    "20 - Areas/Mobile Development/Dart & Flutter/Dart & Flutter Bootcamp Roadmap.md",
+    "20 - Areas/Mobile Development/Dart & Flutter/08 - Testing & App Store Deployment",
+    "20 - Areas/Mobile Development/Dart & Flutter/07 - Local Persistence & Databases",
+    "20 - Areas/Mobile Development/Dart & Flutter/06 - Networking & APIs",
+    "20 - Areas/Mobile Development/Dart & Flutter/05 - State Management Deep Dive",
+    "20 - Areas/Mobile Development/Dart & Flutter/04 - Layout & UI Mastery",
+    "20 - Areas/Mobile Development/Dart & Flutter/03 - Flutter Essentials",
+    "20 - Areas/Mobile Development/Dart & Flutter/02 - Dart Advanced (OOP & Async)",
+    "20 - Areas/Mobile Development/Dart & Flutter/01 - Dart Fundamentals",
+    "20 - Areas/Mobile Development/Dart & Flutter",
+    "20 - Areas/Mobile Development",
+    "20 - Areas/Cyber Security/01 - Fundamentals/Cybersecurity Fundamentals.md",
+    "20 - Areas/Cyber Security/Cyber Security Roadmap.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "20 - Areas/DevOps/01 - Fundamentals/Introduction to DevOps.md",
+    "20 - Areas/DevOps/DevOps Roadmap.md",
+    "50 - System/51 - Templates/Study Note.md",
+    "50 - System/51 - Templates/Permanent Note.md",
+    "50 - System/51 - Templates/Literature Note.md",
+    "50 - System/51 - Templates/Project.md",
+    "50 - System/51 - Templates/Daily Note.md",
+    "Welcome.md",
+    "01. Daily Logs/🗓️ Daily - 2026-03-20.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
+    "01. Daily Logs/🗓️ Daily - 2026-02-25.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/2️⃣ 🗺 Learning Path.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
+    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/99 - Foundation Checklist.md",
+    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/00 - DevOps Concept/CI-CD Overview.md",
+    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/00 - DevOps Concept/DevOps Lifecycle.md",
+    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/00 - DevOps Concept/What is DevOps.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/5️⃣ 🧪 Project Plan.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/6️⃣ 📅 Weekly Plan.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/3️⃣ 📊 Skill Matrix.md",
+    "09.Templates/📜 Materi.md",
+    "Untitled.canvas"
+  ]
+}

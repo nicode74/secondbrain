@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "50 - System/51 - Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "50 - System/54 - Daily",
+      "template": "50 - System/51 - Templates/Daily Note.md"
+    },
+    {
+      "folder": "10 - Projects",
+      "template": "50 - System/51 - Templates/Project.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
