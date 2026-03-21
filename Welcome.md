@@ -1,5 +1,16 @@
-This is your new *vault*.
+# 🧠 Welcome to My Second Brain
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+This is the central hub for all my research and study. 
 
-When you're ready, delete this note and make the vault your own.
+## 🗺️ High-Level Map of Content
+- [[20 - Areas/Cyber Security/Cyber Security Roadmap|Cyber Security Hub]]
+	- [[20 - Areas/Cyber Security/Reverse Engineering/Reverse Engineering Roadmap|Reverse Engineering Sub-Hub]]
+- [[20 - Areas/DevOps/DevOps Roadmap|DevOps Hub]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/Dart & Flutter Bootcamp Roadmap|Dart & Flutter Hub]]
+
+## ⚡ Quick Access
+- [[50 - System/54 - Daily/2026-03-20|Today's Daily Note]]
+- [[10 - Projects/|Active Projects]]
+
+---
+*Tip: Use `Ctrl + G` to see how these notes are currently connecting in the Graph View!*
