@@ -6,6 +6,7 @@ This is the central hub for all my research and study.
 - [[20 - Areas/Cyber Security/Cyber Security Roadmap|Cyber Security Hub]]
 	- [[20 - Areas/Cyber Security/Reverse Engineering/Reverse Engineering Roadmap|Reverse Engineering Sub-Hub]]
 - [[20 - Areas/DevOps/DevOps Roadmap|DevOps Hub]]
+- [[20 - Areas/Cloud Computing/Cloud Computing Roadmap|Cloud Computing Hub]]
 - [[20 - Areas/Mobile Development/Dart & Flutter/Dart & Flutter Bootcamp Roadmap|Dart & Flutter Hub]]
 - [[20 - Areas/Mobile Development/Kotlin & Android/Kotlin & Android Roadmap|Kotlin & Android Hub]]
 - [[20 - Areas/Web Development/Web2 & Web3/Web2 & Web3 Roadmap|Web2 & Web3 Hub]]
