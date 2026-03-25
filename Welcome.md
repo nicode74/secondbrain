@@ -7,6 +7,9 @@ This is the central hub for all my research and study.
 	- [[20 - Areas/Cyber Security/Reverse Engineering/Reverse Engineering Roadmap|Reverse Engineering Sub-Hub]]
 - [[20 - Areas/DevOps/DevOps Roadmap|DevOps Hub]]
 - [[20 - Areas/Mobile Development/Dart & Flutter/Dart & Flutter Bootcamp Roadmap|Dart & Flutter Hub]]
+- [[20 - Areas/Web Development/Web2 & Web3/Web2 & Web3 Roadmap|Web2 & Web3 Hub]]
+- [[20 - Areas/Lingo/Roadmap - German|Lingo: German Hub]]
+- [[20 - Areas/Lingo/Roadmap - Spanish|Lingo: Spanish Hub]]
 
 ## ⚡ Quick Access
 - [[50 - System/54 - Daily/2026-03-20|Today's Daily Note]]
