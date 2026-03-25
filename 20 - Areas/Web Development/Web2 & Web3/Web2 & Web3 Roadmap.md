@@ -40,3 +40,8 @@ Status: #status/active
 
 ## 📝 Active Study Notes
 - [[20 - Areas/Web Development/Web2 & Web3/01 - Web2 Fundamentals/Introduction to Web2 & Web3|Introduction to Web2 & Web3]]
+
+- [[20 - Areas/Web Development/Web2 & Web3/02 - Web3 & Blockchain Basics/Web3 & Blockchain Basics.md|Web3 & Blockchain Basics]]
+- [[20 - Areas/Web Development/Web2 & Web3/03 - Smart Contract Development (Solidity/Rust)/Rust).md|Rust)]]
+- [[20 - Areas/Web Development/Web2 & Web3/04 - DApp Development & Tooling/DApp Development & Tooling.md|DApp Development & Tooling]]
+- [[20 - Areas/Web Development/Web2 & Web3/05 - DeFi, NFTs & DAOs/DeFi, NFTs & DAOs.md|DeFi, NFTs & DAOs]]

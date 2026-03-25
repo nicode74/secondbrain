@@ -27,3 +27,6 @@ Status: #status/active
 
 ## 📝 Active Language Notes
 - [[20 - Areas/Lingo/German/01 - Beginner (A1-A2)/German A1 - First Steps|German A1 - First Steps]]
+
+- [[20 - Areas/Lingo/German/02 - Intermediate (B1-B2)/Intermediate (B1-B2).md|Intermediate (B1-B2)]]
+- [[20 - Areas/Lingo/German/03 - Expert (C1-C2)/Expert (C1-C2).md|Expert (C1-C2)]]

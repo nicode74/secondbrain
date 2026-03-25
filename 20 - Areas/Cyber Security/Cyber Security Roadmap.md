@@ -55,3 +55,12 @@ Status: #status/active
 ## 📝 Active Study Notes
 - [[20 - Areas/Cyber Security/01 - Fundamentals/Cybersecurity Fundamentals|Cybersecurity Fundamentals]]
 - [[20 - Areas/Cyber Security/03 - Web Security/OWASP Top 10 Overview|OWASP Top 10 Overview]]
+
+- [[20 - Areas/Cyber Security/02 - Network Security/Network Security.md|Network Security]]
+- [[20 - Areas/Cyber Security/03 - Web Security/Web Security.md|Web Security]]
+- [[20 - Areas/Cyber Security/04 - Cryptography/Cryptography.md|Cryptography]]
+- [[20 - Areas/Cyber Security/05 - Endpoint Security/Endpoint Security.md|Endpoint Security]]
+- [[20 - Areas/Cyber Security/06 - IAM & Authentication/IAM & Authentication.md|IAM & Authentication]]
+- [[20 - Areas/Cyber Security/07 - Penetration Testing/Penetration Testing.md|Penetration Testing]]
+- [[20 - Areas/Cyber Security/08 - Incident Response & Forensics/Incident Response & Forensics.md|Incident Response & Forensics]]
+- [[20 - Areas/Cyber Security/09 - Governance & Compliance/Governance & Compliance.md|Governance & Compliance]]

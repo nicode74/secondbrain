@@ -54,3 +54,11 @@ Status: #status/active
 
 ## 📝 Active Study Notes
 - [[20 - Areas/Mobile Development/Dart & Flutter/01 - Dart Fundamentals/Module 1 - Dart Basics|Module 1 - Dart Basics]]
+
+- [[20 - Areas/Mobile Development/Dart & Flutter/02 - Dart Advanced (OOP & Async)/Dart Advanced (OOP & Async).md|Dart Advanced (OOP & Async)]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/03 - Flutter Essentials/Flutter Essentials.md|Flutter Essentials]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/04 - Layout & UI Mastery/Layout & UI Mastery.md|Layout & UI Mastery]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/05 - State Management Deep Dive/State Management Deep Dive.md|State Management Deep Dive]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/06 - Networking & APIs/Networking & APIs.md|Networking & APIs]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/07 - Local Persistence & Databases/Local Persistence & Databases.md|Local Persistence & Databases]]
+- [[20 - Areas/Mobile Development/Dart & Flutter/08 - Testing & App Store Deployment/Testing & App Store Deployment.md|Testing & App Store Deployment]]

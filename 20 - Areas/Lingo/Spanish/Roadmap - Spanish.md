@@ -27,3 +27,6 @@ Status: #status/active
 
 ## 📝 Active Language Notes
 - [[20 - Areas/Lingo/Spanish/01 - Beginner (A1-A2)/Spanish A1 - First Steps|Spanish A1 - First Steps]]
+
+- [[20 - Areas/Lingo/Spanish/02 - Intermediate (B1-B2)/Intermediate (B1-B2).md|Intermediate (B1-B2)]]
+- [[20 - Areas/Lingo/Spanish/03 - Expert (C1-C2)/Expert (C1-C2).md|Expert (C1-C2)]]

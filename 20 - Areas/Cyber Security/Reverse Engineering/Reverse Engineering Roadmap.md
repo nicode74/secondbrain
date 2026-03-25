@@ -48,3 +48,11 @@ Status: #status/active
 
 ## 📝 Active Study Notes
 - [[20 - Areas/Cyber Security/Reverse Engineering/01 - RE Fundamentals (CPU & Binary)/RE Module 1 - Architecture & Binary Fundamentals|RE Module 1 - Architecture & Binary Fundamentals]]
+
+- [[20 - Areas/Cyber Security/Reverse Engineering/02 - Assembly Mastery (x86_64)/Assembly Mastery (x86_64).md|Assembly Mastery (x86_64)]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/03 - Static Analysis & Disassemblers/Static Analysis & Disassemblers.md|Static Analysis & Disassemblers]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/04 - Dynamic Analysis & Debuggers/Dynamic Analysis & Debuggers.md|Dynamic Analysis & Debuggers]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/05 - File Formats (PE, ELF, Mach-O)/File Formats (PE, ELF, Mach-O).md|File Formats (PE, ELF, Mach-O)]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/06 - Decompilation & Scripting/Decompilation & Scripting.md|Decompilation & Scripting]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/07 - Malware Reverse Engineering/Malware Reverse Engineering.md|Malware Reverse Engineering]]
+- [[20 - Areas/Cyber Security/Reverse Engineering/08 - Software Protection & Anti-RE/Software Protection & Anti-RE.md|Software Protection & Anti-RE]]
