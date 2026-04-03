@@ -19,6 +19,7 @@ not done
 ```
 
 ## 📚 Resources & Linked Notes
+- [The Documents](https://docs.google.com/document/d/1Zzgzjff_PubrRukK5euE_uAao1egaC2VeW_ex3ezJ9M/edit?usp=sharing)
 - 
 
 ## 📝 Notes & Logs
